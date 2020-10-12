@@ -7,7 +7,7 @@
 Problem       | Source File
 ------------- | -------------
 Spiral        | spiral/
-  Generate    | generate-spiral.js
-  Print       | print-spiral.js
+&nbsp;&nbsp;&nbsp;Generate    | generate-spiral.js
+&nbsp;&nbsp;&nbsp;Print       | print-spiral.js
 Look And Say  | look-and-say/
-  Generate    | generate-look-and-say-sequence.js
+&nbsp;&nbsp;&nbsp;Generate    | generate-look-and-say-sequence.js
