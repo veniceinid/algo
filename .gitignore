@@ -1,0 +1,11 @@
+node_modules
+.nyc_output
+allure
+coverage
+build
+.DS_Store
+.history
+dist
+k8s.yaml
+skaffold.yaml
+.env
