@@ -7,11 +7,20 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch Program",
+      "name": "Spiral Generation",
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/spiral/index.js"
-    }
+      "program": "${workspaceFolder}/spiral/generate-spiral.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Print Spiral",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/spiral/print-spiral.js"
+    },
   ]
 }
