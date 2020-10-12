@@ -6,8 +6,8 @@
 
 Problem       | Sub-problem   | Source File
 ------------- | ------------- | -------------
-Spiral        |               | spiral/
+Spiral        | -             | spiral/
 -             | Generate      | generate-spiral.js
 -             | Print         | print-spiral.js
-Look And Say  |               | look-and-say/
+Look And Say  | -             | look-and-say/
 -             | Generate      | generate-look-and-say-sequence.js
