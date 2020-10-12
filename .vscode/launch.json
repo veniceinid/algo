@@ -7,7 +7,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Spiral Generation",
+      "name": "Generate Spiral",
       "skipFiles": [
         "<node_internals>/**"
       ],
@@ -21,6 +21,15 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}/spiral/print-spiral.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Generate Look And Say Sequence",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/look-and-say/generate-look-and-say-sequence.js"
     },
   ]
 }

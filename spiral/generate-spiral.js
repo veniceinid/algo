@@ -30,8 +30,8 @@ const generateSpiral = (size) => {
 const rows = generateSpiral(4);
 
 rows.forEach(row => {
-  // console.log(row.toString());
-  console.log(row.reduce((concatenatedRow, col) => `${concatenatedRow} ${col < 10 ? '0' : ''}${col}`, ''));
+  console.log(row.toString());
+  // console.log(row.reduce((concatenatedRow, col) => `${concatenatedRow} ${col < 10 ? '0' : ''}${col}`, ''));
 });
 
 
