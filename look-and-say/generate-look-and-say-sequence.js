@@ -39,3 +39,7 @@ const sequence = generateSequence(10);
 //   console.log(value);
 // });
 
+console.log('----------------------------');
+// find the nth term
+const nthTerm = 2;
+console.log(`The ${nthTerm}(nth) term is ${sequence[nthTerm-1]}.`);
