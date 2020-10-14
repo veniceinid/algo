@@ -40,5 +40,14 @@
       ],
       "program": "${workspaceFolder}/edit-distance/one-edit-away.js"
     },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "A Very Big Sum",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/a-very-big-sum/sum-all-elements.js"
+    },
   ]
 }
