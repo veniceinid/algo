@@ -11,3 +11,5 @@ Spiral        | spiral/
 &nbsp;&nbsp;&nbsp;Print       | print-spiral.js
 Look And Say  | look-and-say/
 &nbsp;&nbsp;&nbsp;Generate    | generate-look-and-say-sequence.js
+Edit Distance | edit-distance/
+&nbsp;&nbsp;&nbsp;One Edit Away | one-edit-away.js
