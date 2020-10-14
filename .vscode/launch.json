@@ -31,5 +31,14 @@
       ],
       "program": "${workspaceFolder}/look-and-say/generate-look-and-say-sequence.js"
     },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "One Edit Away",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/edit-distance/one-edit-away.js"
+    },
   ]
 }
