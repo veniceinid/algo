@@ -58,5 +58,14 @@
       ],
       "program": "${workspaceFolder}/designer-pdf-viewer/highlighted-area.js"
     },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Left Rotation",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/left-rotation/rotate-left.js"
+    },
   ]
 }

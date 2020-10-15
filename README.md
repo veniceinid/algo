@@ -13,3 +13,5 @@ A Very Big Sum | a-very-big-sum/
 &nbsp;&nbsp;&nbsp;Sum All Elements | sum-all-elements.js
 Designer PDF Viewer | designer-pdf-viewer/
 &nbsp;&nbsp;&nbsp;Calculate highlighted word | highlighted-area.js
+Left Rotation | left-rotation/
+&nbsp;&nbsp;&nbsp;Rotate left | rotate-left.js
