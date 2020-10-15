@@ -49,5 +49,14 @@
       ],
       "program": "${workspaceFolder}/a-very-big-sum/sum-all-elements.js"
     },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Designer PDF Viewer",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/designer-pdf-viewer/highlighted-area.js"
+    },
   ]
 }
